@@ -1,0 +1,32 @@
+body {
+	margin: auto 0;
+    border: 0;
+}
+
+#neutron-split {
+	margin: auto 0;
+    border: 0;
+}
+
+.split-column {
+    float: left;
+    width: 50%;
+    background-color: #e5e5e5;
+    height: 600px;
+}
+
+.split-column h2 {
+	margin-left: 100px;
+	font-family: arial;
+}
+
+.split-column img {
+    width: 100%;
+    height: 600px;
+}
+
+.split-column p {
+    width: 60%;
+    height: 600px;
+    margin-left: 100px;
+}
