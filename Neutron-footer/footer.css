@@ -1,0 +1,30 @@
+body {
+	margin: auto 0;
+    border: 0;
+}
+
+#neutron-footer {
+	margin: auto 0;
+    border: 0;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    background-color: #e5e5e5;
+    height: 200px;
+}
+
+.column h2 {
+	margin-left: 100px;
+	font-family: arial;
+}
+
+.column ul {
+	list-style: none;
+	font-family: arial;
+	font-size: 15px;
+	float: left;
+	margin-left: 60px;
+	font-weight: 1;
+}
