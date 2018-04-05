@@ -8,19 +8,19 @@ body {
     border: 0;
 }
 
-.column {
+.footer-column {
     float: left;
     width: 33.33%;
     background-color: #e5e5e5;
     height: 200px;
 }
 
-.column h2 {
+.footer-column h2 {
 	margin-left: 100px;
 	font-family: arial;
 }
 
-.column ul {
+.footer-column ul {
 	list-style: none;
 	font-family: arial;
 	font-size: 15px;
