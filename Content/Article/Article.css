@@ -1,0 +1,32 @@
+body {
+	margin: auto 0;
+    border: 0;
+}
+
+#article-container {
+	margin-left: auto;
+    margin-right: auto;
+}
+
+.neutron-article {
+    float: left;
+    width: 40%;
+    background-color: #e5e5e5;
+    height: 600px;
+}
+
+.neutron-article h2 {
+	margin-left: 100px;
+	font-family: arial;
+}
+
+.neutron-article img {
+    width: 50%;
+    height: 200px;
+    margin-left: 100px;
+}
+
+.neutron-article p {
+    width: 60%;
+    margin-left: 100px;
+}
