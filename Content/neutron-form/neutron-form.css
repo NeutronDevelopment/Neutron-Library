@@ -1,0 +1,66 @@
+body {
+	margin: auto 0;
+    border: 0;
+}
+
+#neutron-form {
+    width: 20%;
+    height: 400px;
+    background-color: #e5e5e5;
+    border-radius: 10px;
+    margin: auto;
+}
+
+.neutron-input {
+    margin: auto;
+
+}
+.neutron-input input {
+    width: 80%;
+    height: 20px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    border-style: none;
+    margin-left: 20px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+#neutron-form h2 {
+    margin-left: 20px;
+    font-family: arial;
+}
+
+#neutron-form h4 {
+    margin-left: 20px;
+    font-family: arial;
+    margin-top: 10px;
+    margin-bottom: 0;
+    font-weight: 1;
+
+}
+
+.neutron-input button {
+    width: 30%;
+    height: 50px;
+    margin-left: 20px;
+    background-color: #2e62a5;
+    border-radius: 10px;
+    margin-top: 20px;
+    border-style: none;
+}
+
+.neutron-input button:active {
+    width: 30%;
+    height: 50px;
+    margin-left: 20px;
+    background-color: #2f6dbc;
+    border-radius: 10px;
+    margin-top: 20px;
+    border-style: none;
+}
+
+.neutron-input button p {
+    font-family: arial;
+    color: #ffffff;
+}
