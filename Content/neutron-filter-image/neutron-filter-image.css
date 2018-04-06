@@ -1,0 +1,9 @@
+body {
+    margin: auto 0;
+    border: 0;
+}
+
+#neutron-filter-image img {
+  width: 100%;
+  height: 600px;
+}
