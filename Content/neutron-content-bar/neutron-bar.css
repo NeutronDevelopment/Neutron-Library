@@ -1,0 +1,31 @@
+body {
+    margin: auto 0;
+    border: 0;
+}
+
+#neutron-bar {
+    margin: auto 0;
+    border: 0;
+}
+
+.bar-column {
+    float: left;
+    width: 33.33%;
+    background-color: #e5e5e5;
+    height: 200px;
+    margin: auto;
+}
+
+.bar-column p {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    font-weight: 0.2;
+}
+
+.bar-column img {
+    width: 30%;
+    height: 100px;
+    margin-top: 20px;
+}
