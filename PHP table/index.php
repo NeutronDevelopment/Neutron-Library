@@ -3,7 +3,7 @@
 <head>
   <?php include('connect.php'); ?>
 
-  <?php $query = ("select * from customers");
+  <?php $query = ("select * from employee");
   $result_employee = mysqli_query($db, $query);
   ?>
 
